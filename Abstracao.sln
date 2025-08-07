@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstraindoUmCelular", "AbstraindoUmCelular\AbstraindoUmCelular.csproj", "{6FE9D9BC-856D-4212-A8C4-E03FB25FC721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE9D9BC-856D-4212-A8C4-E03FB25FC721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE9D9BC-856D-4212-A8C4-E03FB25FC721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE9D9BC-856D-4212-A8C4-E03FB25FC721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE9D9BC-856D-4212-A8C4-E03FB25FC721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

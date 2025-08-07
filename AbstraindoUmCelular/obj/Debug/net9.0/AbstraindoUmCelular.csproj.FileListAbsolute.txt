@@ -1,0 +1,15 @@
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.AssemblyInfoInputs.cache
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.AssemblyInfo.cs
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.sourcelink.json
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\bin\Debug\net9.0\AbstraindoUmCelular.exe
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\bin\Debug\net9.0\AbstraindoUmCelular.deps.json
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\bin\Debug\net9.0\AbstraindoUmCelular.runtimeconfig.json
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\bin\Debug\net9.0\AbstraindoUmCelular.dll
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\bin\Debug\net9.0\AbstraindoUmCelular.pdb
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.dll
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\refint\AbstraindoUmCelular.dll
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.pdb
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\AbstraindoUmCelular.genruntimeconfig.cache
+C:\Estudos\C#\Desafios\Abstracao\AbstraindoUmCelular\obj\Debug\net9.0\ref\AbstraindoUmCelular.dll
